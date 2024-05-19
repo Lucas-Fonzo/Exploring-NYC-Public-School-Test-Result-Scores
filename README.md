@@ -5,6 +5,7 @@
 Foto por [Jannis Lucas](https://unsplash.com/@jannis_lucas) em [Unsplash](https://unsplash.com).
 
 ## Introdução
+Este projeto faz parte da coleção do site DataCamp. Posto esse projeto aqui como forma de compartilhar o meu estagio de desenvolvimento.
 Todo ano, estudantes do ensino médio dos Estados Unidos realizam o SAT, um teste padronizado destinado a medir habilidades de leitura, matemática e escrita. Com três seções - leitura, matemática e escrita - cada uma com uma **pontuação máxima de 800 pontos**, esses testes são extremamente importantes tanto para os estudantes quanto para as faculdades, desempenhando um papel crucial no processo de admissão.
 
 A análise do desempenho das escolas é fundamental para uma variedade de partes interessadas, incluindo profissionais de política e educação, pesquisadores, governo e até mesmo pais que estão considerando em qual escola seus filhos devem estudar.
